@@ -11,5 +11,5 @@ public Mat onCameraFrame(Mat inputFrame) {
         return null;  
  }  
 
-What I did is define the onCameraFrame method in Interface CameraBridgeViewBase.CvCameraViewListener.
+//What I did is define the onCameraFrame method in Interface CameraBridgeViewBase.CvCameraViewListener.
 And it will output the picture has been rotated.
